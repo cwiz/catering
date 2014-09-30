@@ -1,0 +1,8 @@
+*.log
+*.pyc
+.DS_Store
+.idea/
+.noseids
+local.py
+logs/
+src/

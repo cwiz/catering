@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README
+setup.cfg
+django_openid_consumer/__init__.py
+django_openid_consumer/middleware.py
+django_openid_consumer/models.py
+django_openid_consumer/urls.py
+django_openid_consumer/util.py
+django_openid_consumer/views.py
+pip-egg-info/django_openid_consumer.egg-info/PKG-INFO
+pip-egg-info/django_openid_consumer.egg-info/SOURCES.txt
+pip-egg-info/django_openid_consumer.egg-info/dependency_links.txt
+pip-egg-info/django_openid_consumer.egg-info/not-zip-safe
+pip-egg-info/django_openid_consumer.egg-info/requires.txt
+pip-egg-info/django_openid_consumer.egg-info/top_level.txt
